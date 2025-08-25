@@ -4,11 +4,23 @@ This modpack is based on [PEAK Vanilla Plus](https://thunderstore.io/c/peak/p/No
 
 ## 📥 Download
 
-**[Download via Thunderstore Mod Manager](https://thunderstore.io/c/peak/p/EmpireCraft/PEAKPACK_Vanilla_Plus_Plus_Casual/)**
+### 🎯 Thunderstore Mod Manager (Safest)
+**[Thunderstore Download Page](https://thunderstore.io/c/peak/p/EmpireCraft/PEAKPACK_Vanilla_Plus_Plus_Casual/)**
 
 Use the Thunderstore Mod Manager for easy installation and automatic dependency management.
 
-**[Download via Github]()**
+### 📦 GitHub (Manual)
+
+**[📁 Complete Release (with mods)](https://github.com/EmpireCraft/PEAKPACK_Vanilla_Plus_Plus_Casual/releases)** - Includes all mods and configurations
+
+**[⚙️ Configurations Release (without mods)](https://github.com/EmpireCraft/PEAKPACK_Vanilla_Plus_Plus_Casual/releases)** - Configurations only, download mods via Thunderstore
+
+#### 📋 Manual Installation Instructions
+1. Download the ZIP file of your desired release
+2. Extract the contents to the **PEAK game root directory**
+3. If you chose the release without mods, install the mods via Thunderstore Mod Manager
+
+> ⚠️ **Recomendação**: Use o Thunderstore Mod Manager + Release sem mods para maior segurança e atualizações automáticas.
 
 # NEW COMMANDS
 
