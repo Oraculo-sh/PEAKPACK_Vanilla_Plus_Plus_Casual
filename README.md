@@ -11,9 +11,9 @@ Use the Thunderstore Mod Manager for easy installation and automatic dependency 
 
 ### 📦 GitHub (Manual)
 
-**[📁 Complete Release (with mods)](https://github.com/EmpireCraft/PEAKPACK_Vanilla_Plus_Plus_Casual/releases)** - Includes all mods and configurations
+**[📁 Complete Release (with mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v0.1.2/PEAKPACK_Vanilla_Plus_Plus_Casual_Complete_v0.1.2.zip)** - Includes all mods and configurations
 
-**[⚙️ Configurations Release (without mods)](https://github.com/EmpireCraft/PEAKPACK_Vanilla_Plus_Plus_Casual/releases)** - Configurations only, download mods via Thunderstore
+**[⚙️ Configurations Release (without mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v0.1.2/PEAKPACK_Vanilla_Plus_Plus_Casual_ConfigOnly_v0.1.2.zip)** - Configurations only, download mods via Thunderstore
 
 #### 📋 Manual Installation Instructions
 1. Download the ZIP file of your desired release
