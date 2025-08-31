@@ -1,4 +1,4 @@
-﻿# PEAKPACK Vanilla Plus Plus Casual v0.1.5
+# PEAKPACK Vanilla Plus Plus Casual v0.1.5
 
 This modpack is based on [PEAK Vanilla Plus](https://thunderstore.io/c/peak/p/NovaXCIV/PEAK_Vanilla_Plus/) but with several improvements focused on making the gameplay more friendly and casual for a better gaming experience.
 
