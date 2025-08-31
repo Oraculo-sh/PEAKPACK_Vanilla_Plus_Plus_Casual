@@ -1,9 +1,10 @@
-# PEAKPACK Vanilla Plus Plus Casual v0.1.4
+﻿# PEAKPACK Vanilla Plus Plus Casual v0.1.4
 
 This modpack is based on [PEAK Vanilla Plus](https://thunderstore.io/c/peak/p/NovaXCIV/PEAK_Vanilla_Plus/) but with several improvements focused on making the gameplay more friendly and casual for a better gaming experience.
 
-🇧🇷 If you are **Brazilian** or **brazilian speaker**, join our [Discord](https://discord.gg/JZyRHPMwDm) and play with us! Let's climb together!
-🇧🇷 Se você é **Brasileiro** ou **fala brasileires**, junte-se ao nosso [Discord](https://discord.gg/JZyRHPMwDm) e jogue conosco! Vamos escalar juntos!
+[🇧🇷]
+If you are **Brazilian** or **brazilian speaker**, join our [Discord](https://discord.gg/JZyRHPMwDm) and play with us! Let's climb together!
+Se você é **Brasileiro** ou **fala brasileires**, junte-se ao nosso [Discord](https://discord.gg/JZyRHPMwDm) e jogue conosco! Vamos escalar juntos!
 
 ## 📥 Download
 
