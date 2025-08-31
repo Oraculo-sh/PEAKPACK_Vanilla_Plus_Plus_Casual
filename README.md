@@ -1,12 +1,12 @@
-# PEAKPACK Vanilla Plus Plus Casual v0.1.5
+# 🗻 PEAKPACK Vanilla Plus Plus Casual v0.1.6
 
 This modpack is based on [PEAK Vanilla Plus](https://thunderstore.io/c/peak/p/NovaXCIV/PEAK_Vanilla_Plus/) but with several improvements focused on making the gameplay more friendly and casual for a better gaming experience.
 
 [🇧🇷]
 
-If you are **Brazilian** or **brazilian speaker**, join our [Discord](https://discord.gg/JZyRHPMwDm) and play with us! Let's climb together!
+⚽ If you are **Brazilian** or **brazilian speaker**, join our [Discord](https://discord.gg/JZyRHPMwDm) and play with us! Let's climb together!
 
-Se você é **Brasileiro** ou **fala brasileires**, junte-se ao nosso [Discord](https://discord.gg/JZyRHPMwDm) e jogue conosco! Vamos escalar juntos!
+⚽ Se você é **Brasileiro** ou **fala brasileires**, junte-se ao nosso [Discord](https://discord.gg/JZyRHPMwDm) e jogue conosco! Vamos escalar juntos!
 
 
 ## 📥 Download
@@ -18,9 +18,9 @@ Use the Thunderstore Mod Manager for easy installation and automatic dependency 
 
 ### 📦 GitHub (Manual)
 
-**[📁 Complete Release (with mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v0.1.5/PEAKPACK_Vanilla_Plus_Plus_Casual_Complete_v0.1.5.zip)** - Includes all mods and configurations
+**[📁 Complete Release (with mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v0.1.6/PEAKPACK_Vanilla_Plus_Plus_Casual_Complete_v0.1.6.zip)** - Includes all mods and configurations
 
-**[⚙️ Configurations Release (without mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v0.1.5/PEAKPACK_Vanilla_Plus_Plus_Casual_ConfigOnly_v0.1.5.zip)** - Configurations only, download mods via Thunderstore
+**[⚙️ Configurations Release (without mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v0.1.6/PEAKPACK_Vanilla_Plus_Plus_Casual_ConfigOnly_v0.1.6.zip)** - Configurations only, download mods via Thunderstore
 
 #### 📋 Manual Installation Instructions
 1. Download the ZIP file of your desired release
@@ -30,7 +30,7 @@ Use the Thunderstore Mod Manager for easy installation and automatic dependency 
 > ⚠️ **Recommendation**: Use Thunderstore Mod Manager + Config-only Release for better security and automatic updates.
 
 
-# NEW COMMANDS
+# ⌨️ NEW COMMANDS
 
 **F** = push another player
 
@@ -49,7 +49,7 @@ Use the Thunderstore Mod Manager for easy installation and automatic dependency 
 **F10** = fast auto-restart a run
 
 
-# QOL AND OPTIMIZATION
+# 🍵 QOL AND OPTIMIZATION
 ⚡ Fast startup
 
 👥 Lobby up to 20 players or more via config
@@ -75,7 +75,7 @@ Use the Thunderstore Mod Manager for easy installation and automatic dependency 
 And much more...
 
 
-# NEW CONTENT
+# 🆕 NEW CONTENT
 ### More ascents:
 <li>Ascent 9 - Big Luggage's have a chance to only contain one item.</li>
 <li>Ascent 10 - You're more vulnerable to everything but Injuries, Hunger and Weight.</li>
@@ -87,34 +87,7 @@ And much more...
 <li>Chaos 4 - Bing Bong calls upon an evil force if not given attention.</li>
 
 
-# CHANGES FROM ORIGINAL
-### New Mods
-- **quackandcheese-SkinnedMeshRendererItemFix-0.1.0** - Fixes issues with skinned mesh renderers on items.
-- **Evaisa-ThirdPersonToggle-1.0.10** - Third person camera toggle functionality
-- **boxofbiscuits97-PingDistance-0.2.0** - Display distance information for pings
-- **nickklmao-EasyBackpack-1.1.1** - Simplified backpack management
-- **quackandcheese-ItemKO-0.1.3** - Item knockout mechanics
-- **an0nymooose-Fair_SnowStorm_Winds-1.0.3** - Balanced snowstorm wind effects
-- **quackandcheese-AutoRopeDismount-0.1.0** - Automatic rope dismounting
-- **OnergyDev-NoUpdateScreen-1.2.1** - Removes update notification screens
-- **BaaaRan-PlayerDistanceDisplay-1.0.2** - Shows distance between players
-- **nickklmao-PeakStats-0.2.0** - Player statistics tracking
-- **IntRabbit-Last_Chance-1.1.0** - Last chance revival mechanics
-- **MonAmiral-PeakMonAmiralStuff-1.0.0** - Additional gameplay features
-- **tony4twenty-Warming_Lava-2.1.0** - Lava warming mechanics
-- **Nozz-BagsForEveryone-1.1.0** - Universal bag access
-- **Pandaismyname1-PeakConvenientBackpacks-1.0.0** - Convenient backpack features
-- **saitelait-SlightlyCasualStamina-1.0.0** - Casual-friendly stamina adjustments
-- **saitelait-SlightlyCasualDebuffs-1.0.0** - Casual-friendly debuff modifications
-- **IntRabbit-No_Revive_Penalty-1.0.0** - Removes revival penalties
-- **jkqt-ItemInfoDisplay-1.0.8** - Enhanced item information display
-- **CakeDevs-Leaderboard-1.0.5** - Leaderboard functionality
-- **pharmacomaniac-SettingsExtenderForked-0.1.6** - Extended settings options
-- **loaforc-loaforcsSoundAPI-2.0.8** - Sound API framework
-- **Jonesy__07-Minecraft_Eating-1.0.3** - Minecraft-style eating mechanics
-- **PEAKModding-PEAKLib_UI-1.5.0** - UI library framework
-- **PEAKModding-ModConfig-1.5.0** - Mod configuration system
-- **PEAKModding-PEAKLib_Stats-1.2.0** - Statistics library framework
+# 🪫CHANGES
 
 ### Updated Mods
 - **AddzeeyMods-CrumpHats**: 1.0.0 → 1.1.0
@@ -131,12 +104,6 @@ And much more...
 - **boxofbiscuits97-PingDistance**: 0.2.0 → 0.2.1
 - **boxofbiscuits97-GhostPing**: 0.1.0 → 0.1.1
 
-## Summary
-
-**✅ Mods removed**: 0
-**➕ Total new dependencies added**: 27
-**🔄 Dependencies updated**: 13
-
-# HAVE FUN!
+# 🎉 HAVE FUN!
 
 ![](https://media.tenor.com/XNdbNKefwNUAAAAi/peak-game-transparent-dance.gif)
