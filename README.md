@@ -1,4 +1,4 @@
-# PEAKPACK Vanilla Plus Plus Casual
+# PEAKPACK Vanilla Plus Plus Casual v0.1.4
 
 This modpack is based on [PEAK Vanilla Plus](https://thunderstore.io/c/peak/p/NovaXCIV/PEAK_Vanilla_Plus/) but with several improvements focused on making the gameplay more friendly and casual for a better gaming experience.
 
@@ -14,9 +14,9 @@ Use the Thunderstore Mod Manager for easy installation and automatic dependency 
 
 ### 📦 GitHub (Manual)
 
-**[📁 Complete Release (with mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v0.1.2/PEAKPACK_Vanilla_Plus_Plus_Casual_Complete_v0.1.2.zip)** - Includes all mods and configurations
+**[📁 Complete Release (with mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v0.1.4/PEAKPACK_Vanilla_Plus_Plus_Casual_Complete_v0.1.4.zip)** - Includes all mods and configurations
 
-**[⚙️ Configurations Release (without mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v0.1.2/PEAKPACK_Vanilla_Plus_Plus_Casual_ConfigOnly_v0.1.2.zip)** - Configurations only, download mods via Thunderstore
+**[⚙️ Configurations Release (without mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v0.1.4/PEAKPACK_Vanilla_Plus_Plus_Casual_ConfigOnly_v0.1.4.zip)** - Configurations only, download mods via Thunderstore
 
 #### 📋 Manual Installation Instructions
 1. Download the ZIP file of your desired release
