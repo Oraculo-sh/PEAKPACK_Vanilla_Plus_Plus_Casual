@@ -1,4 +1,4 @@
-# 🗻 PEAKPACK Vanilla Plus Plus Casual v1.0.0
+# 🗻 PEAKPACK Vanilla Plus Plus Casual v1.0.1
 
 This modpack is based on [PEAK Vanilla Plus](https://thunderstore.io/c/peak/p/NovaXCIV/PEAK_Vanilla_Plus/) but with several improvements focused on making the gameplay more friendly and casual for a better gaming experience.
 
@@ -18,9 +18,9 @@ Use the Thunderstore Mod Manager for easy installation and automatic dependency 
 
 ### 📦 GitHub (Manual)
 
-**[📁 Complete Release (with mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v1.0.0/PEAKPACK_Vanilla_Plus_Plus_Casual_Complete_v1.0.0.zip)** - Includes all mods and configurations
+**[📁 Complete Release (with mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v1.0.1/PEAKPACK_Vanilla_Plus_Plus_Casual_Complete_v1.0.1.zip)** - Includes all mods and configurations
 
-**[⚙️ Configurations Release (without mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v1.0.0/PEAKPACK_Vanilla_Plus_Plus_Casual_ConfigOnly_v1.0.0.zip)** - Configurations only, download mods via Thunderstore
+**[⚙️ Configurations Release (without mods)](https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual/releases/download/v1.0.1/PEAKPACK_Vanilla_Plus_Plus_Casual_ConfigOnly_v1.0.1.zip)** - Configurations only, download mods via Thunderstore
 
 #### 📋 Manual Installation Instructions
 1. Download the ZIP file of your desired release
@@ -50,8 +50,6 @@ Use the Thunderstore Mod Manager for easy installation and automatic dependency 
 
 
 # 🍵 QOL AND OPTIMIZATION
-⚡ Fast startup
-
 👥 Lobby up to 20 players or more via config
 
 🌐 Connect later and spawn to lowest Y-level climber + fast auto-reset run (F10)
@@ -96,16 +94,12 @@ And much more...
 - **boxofbiscuits97-PushMod**: 0.6.0 → 1.0.0
 - **glarmer-PEAK_Unlimited**: 3.2.0 → 3.3.0
 - **Joberg-Jobergs_Hat_Emporium**: 3.0.0 → 4.0.0
-- **tony4twenty-Quick_Restart**: 1.3.0 → 1.4.1
 - **asdfmovie402-MoreAscents**: 1.3.0 → 1.3.1
 - **Steven-Everest**: 1.2.0 → 1.2.1
 - **an0nymooose-Fair_SnowStorm_Winds**: 1.0.3 → 1.0.4
 - **PEAKModding-PEAKLib_Core**: 1.2.0 → 1.5.1
 - **boxofbiscuits97-PingDistance**: 0.2.0 → 0.2.1
 - **boxofbiscuits97-GhostPing**: 0.1.0 → 0.1.1
-
-**➕ Total new dependencies added**: 22
-**🔄 Dependencies updated**: 13
 
 # 🎉 HAVE FUN!
 

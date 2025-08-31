@@ -1,6 +1,6 @@
 {
   "name": "PEAKPACK_Vanilla_Plus_Plus_Casual",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/Oraculo-sh/PEAKPACK_Vanilla_Plus_Plus_Casual",
   "description": "This modpack is based on PEAK Vanilla Plus but with several improvements focused on making the gameplay more friendly and casual for a better gaming experience.",
   "dependencies": [
@@ -38,7 +38,6 @@
     "omnisenior-derpdeluxe-1.1.0",
     "quackandcheese-AutoRopeDismount-0.1.0",
     "chrispavs-BetterRagdoll2-1.0.1",
-    "tony4twenty-Quick_Restart-1.4.1",
     "BaaaRan-PlayerDistanceDisplay-1.0.2",
     "PEAKModding-PEAKLib_Core-1.5.1",
     "PEAKModding-PEAKLib_Stats-1.2.0",
@@ -67,7 +66,6 @@
     "boxofbiscuits97-GhostPing-0.1.1",
     "kaosz-PEAK_FixUnlimitedEndScreen-1.0.1",
     "PEAKModding-SoftDependencyFix-1.0.0",
-    "CTNOriginals-PEAKFastStartup-1.1.2",
     "Hamunii-DetourContext_Dispose_Fix-1.0.5",
     "Hamunii-AutoHookGenPatcher-1.0.7",
     "Evaisa-ThirdPersonToggle-1.0.10"
