@@ -3,7 +3,9 @@
 This modpack is based on [PEAK Vanilla Plus](https://thunderstore.io/c/peak/p/NovaXCIV/PEAK_Vanilla_Plus/) but with several improvements focused on making the gameplay more friendly and casual for a better gaming experience.
 
 [🇧🇷]
+
 If you are **Brazilian** or **brazilian speaker**, join our [Discord](https://discord.gg/JZyRHPMwDm) and play with us! Let's climb together!
+
 Se você é **Brasileiro** ou **fala brasileires**, junte-se ao nosso [Discord](https://discord.gg/JZyRHPMwDm) e jogue conosco! Vamos escalar juntos!
 
 
@@ -25,7 +27,7 @@ Use the Thunderstore Mod Manager for easy installation and automatic dependency 
 2. Extract the contents to the **PEAK game root directory**
 3. If you chose the release without mods, install the mods via Thunderstore Mod Manager
 
-> ⚠️ **Recomendação**: Use o Thunderstore Mod Manager + Release sem mods para maior segurança e atualizações automáticas.
+> ⚠️ **Recommendation**: Use Thunderstore Mod Manager + Config-only Release for better security and automatic updates.
 
 
 # NEW COMMANDS
