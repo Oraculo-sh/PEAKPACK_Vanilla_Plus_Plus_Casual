@@ -2,6 +2,9 @@
 
 This modpack is based on [PEAK Vanilla Plus](https://thunderstore.io/c/peak/p/NovaXCIV/PEAK_Vanilla_Plus/) but with several improvements focused on making the gameplay more friendly and casual for a better gaming experience.
 
+🇧🇷 If you are **Brazilian** or **brazilian speaker**, join our [Discord](https://discord.gg/JZyRHPMwDm) and play with us! Let's climb together!
+🇧🇷 Se você é **Brasileiro** ou **fala brasileires**, junte-se ao nosso [Discord](https://discord.gg/JZyRHPMwDm) e jogue conosco! Vamos escalar juntos!
+
 ## 📥 Download
 
 ### 🎯 Thunderstore Mod Manager (Safest)
@@ -78,6 +81,7 @@ And much more...
 
 # CHANGES FROM ORIGINAL
 ### New Mods
+- **quackandcheese-SkinnedMeshRendererItemFix-0.1.0** - Fixes issues with skinned mesh renderers on items.
 - **Evaisa-ThirdPersonToggle-1.0.10** - Third person camera toggle functionality
 - **boxofbiscuits97-PingDistance-0.2.0** - Display distance information for pings
 - **nickklmao-EasyBackpack-1.1.1** - Simplified backpack management
@@ -106,16 +110,24 @@ And much more...
 
 ### Updated Mods
 - **AddzeeyMods-CrumpHats**: 1.0.0 → 1.1.0
-- **FishTank-ManyManyHats**: 1.2.0 → 1.3.0
+- **FishTank-ManyManyHats**: 1.3.0 → 1.3.2
 - **TeddyBRB-Too_Many_Hats**: 2.0.5 → 2.0.6
-- **boxofbiscuits97-PushMod**: 0.5.0 → 0.6.0
-- **glarmer-PEAK_Unlimited**: 3.1.0 → 3.2.0
+- **boxofbiscuits97-PushMod**: 0.6.0 → 1.0.0
+- **glarmer-PEAK_Unlimited**: 3.2.0 → 3.3.0
+- **Joberg-Jobergs_Hat_Emporium**: 3.0.0 → 4.0.0
+- **tony4twenty-Quick_Restart**: 1.3.0 → 1.4.1
+- **asdfmovie402-MoreAscents**: 1.3.0 → 1.3.1
+- **Steven-Everest**: 1.2.0 → 1.2.1
+- **an0nymooose-Fair_SnowStorm_Winds**: 1.0.3 → 1.0.4
+- **PEAKModding-PEAKLib_Core**: 1.2.0 → 1.5.1
+- **boxofbiscuits97-PingDistance**: 0.2.0 → 0.2.1
+- **boxofbiscuits97-GhostPing**: 0.1.0 → 0.1.1
 
 ## Summary
 
 **✅ Mods removed**: 0
-**➕ Total new dependencies added**: 26
-**🔄 Dependencies updated**: 5
+**➕ Total new dependencies added**: 27
+**🔄 Dependencies updated**: 13
 
 # HAVE FUN!
 
