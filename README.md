@@ -6,6 +6,7 @@ This modpack is based on [PEAK Vanilla Plus](https://thunderstore.io/c/peak/p/No
 If you are **Brazilian** or **brazilian speaker**, join our [Discord](https://discord.gg/JZyRHPMwDm) and play with us! Let's climb together!
 Se você é **Brasileiro** ou **fala brasileires**, junte-se ao nosso [Discord](https://discord.gg/JZyRHPMwDm) e jogue conosco! Vamos escalar juntos!
 
+
 ## 📥 Download
 
 ### 🎯 Thunderstore Mod Manager (Safest)
@@ -26,6 +27,7 @@ Use the Thunderstore Mod Manager for easy installation and automatic dependency 
 
 > ⚠️ **Recomendação**: Use o Thunderstore Mod Manager + Release sem mods para maior segurança e atualizações automáticas.
 
+
 # NEW COMMANDS
 
 **F** = push another player
@@ -43,6 +45,7 @@ Use the Thunderstore Mod Manager for easy installation and automatic dependency 
 **T** = change idle istance
 
 **F10** = fast auto-restart a run
+
 
 # QOL AND OPTIMIZATION
 ⚡ Fast startup
@@ -69,6 +72,7 @@ Use the Thunderstore Mod Manager for easy installation and automatic dependency 
 
 And much more...
 
+
 # NEW CONTENT
 ### More ascents:
 <li>Ascent 9 - Big Luggage's have a chance to only contain one item.</li>
@@ -79,6 +83,7 @@ And much more...
 <li>Chaos 2 - Campfires are extremely hot.</li>
 <li>Chaos 3 - The sun is very hot, don't get heatstroke</li>
 <li>Chaos 4 - Bing Bong calls upon an evil force if not given attention.</li>
+
 
 # CHANGES FROM ORIGINAL
 ### New Mods
